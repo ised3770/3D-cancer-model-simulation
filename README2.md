@@ -1,6 +1,7 @@
 # Dynamics of a Chaotic Cancer Model
 This project studies a three-dimensional dynamical cancer growth model, containing the interaction between tumor cells, healthy tissue cells and immune cells (anti-tumor effector cells):
 <div style="text-align:center"><img src="/images/eq.png" alt="workflow" width=25% /></div>
+It is proved that there exists an chaotic attractor. 
 
 ## Simulation Results
 <p float="left">
